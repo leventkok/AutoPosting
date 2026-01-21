@@ -30,7 +30,7 @@ Otomatik sosyal medya post zamanlama ve performans takip sistemi. Twitter ve Lin
 
 ```bash
 git clone <repo-url>
-cd Otoposting
+cd AutoPosting
 ```
 
 ### 2. Sanal Ortam Oluşturun (Önerilen)
@@ -126,7 +126,7 @@ Terminal'de `Ctrl+C` tuşlarına basın.
 ## 📂 Proje Yapısı
 
 ```
-Otoposting/
+AutoPosting/
 │
 ├── python_script.py          # Ana çalıştırma scripti ⭐
 ├── api_integration.py        # API entegrasyon merkezi ⭐
