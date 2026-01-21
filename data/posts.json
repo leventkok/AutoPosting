@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "content": "deneme deneme deneme",
+        "platform": "Twitter",
+        "schedule_time": "2026-01-22 01:38",
+        "status": "sent",
+        "api_post_id": "2014105338409066544",
+        "created_at": "2026-01-22 01:37:20",
+        "metrics": {
+            "likes": 0,
+            "shares": 0,
+            "replies": 0,
+            "impressions": 0
+        },
+        "sent_at": "2026-01-22 01:38:28"
+    },
+    {
+        "id": 2,
+        "content": "denem denem deneme",
+        "platform": "LinkedIn",
+        "schedule_time": "2026-01-22 01:39",
+        "status": "failed",
+        "api_post_id": null,
+        "created_at": "2026-01-22 01:39:06",
+        "metrics": {
+            "likes": 0,
+            "shares": 0,
+            "replies": 0,
+            "impressions": 0
+        },
+        "sent_at": "2026-01-22 01:41:44"
+    },
+    {
+        "id": 3,
+        "content": "denem denem denem deneme",
+        "platform": "LinkedIn",
+        "schedule_time": "2026-01-22 01:42",
+        "status": "failed",
+        "api_post_id": null,
+        "created_at": "2026-01-22 01:42:09",
+        "metrics": {
+            "likes": 0,
+            "shares": 0,
+            "replies": 0,
+            "impressions": 0
+        },
+        "sent_at": "2026-01-22 01:42:14"
+    },
+    {
+        "id": 4,
+        "content": "deneme nolursun ol",
+        "platform": "LinkedIn",
+        "schedule_time": "2026-01-22 01:45",
+        "status": "sent",
+        "api_post_id": "LI-1769035509",
+        "created_at": "2026-01-22 01:44:21",
+        "metrics": {
+            "likes": 0,
+            "shares": 0,
+            "replies": 0,
+            "impressions": 0
+        },
+        "sent_at": "2026-01-22 01:45:09"
+    }
+]

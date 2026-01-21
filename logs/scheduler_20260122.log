@@ -1,0 +1,90 @@
+2026-01-22 01:30:21,437 - INFO - 🚀 Sosyal Medya Otomasyonu Başlatılıyor...
+2026-01-22 01:30:21,874 - INFO - ✅ Twitter API entegrasyonu başarılı
+2026-01-22 01:30:21,874 - INFO - 🔌 API Entegrasyonu tamamlandı. Aktif platformlar: ['Twitter']
+2026-01-22 01:30:21,875 - INFO - ⏰ PostScheduler başlatıldı
+2026-01-22 01:30:21,875 - INFO - 📊 PerformanceTracker başlatıldı
+2026-01-22 01:30:21,875 - INFO - ✅ Servisler başarıyla yüklendi
+2026-01-22 01:30:21,876 - INFO - ✅ Zamanlayıcı çalışmaya başladı (Her 30 saniyede kontrol)
+2026-01-22 01:30:21,876 - INFO - ✅ Post zamanlayıcısı başlatıldı
+2026-01-22 01:30:21,878 - INFO - ✅ Performans takipçisi başladı (Her 10 dakikada kontrol)
+2026-01-22 01:30:21,878 - INFO - ✅ Performans takipçisi başlatıldı
+2026-01-22 01:30:21,878 - INFO - 🌐 Web Dashboard başlatılıyor...
+2026-01-22 01:31:21,879 - INFO - 📊 Güncellenecek metrik yok
+2026-01-22 01:31:51,495 - INFO - 👋 Uygulama kapatılıyor...
+2026-01-22 01:31:54,238 - INFO - 🚀 Sosyal Medya Otomasyonu Başlatılıyor...
+2026-01-22 01:31:54,676 - INFO - ✅ Twitter API entegrasyonu başarılı
+2026-01-22 01:31:54,676 - INFO - 🔌 API Entegrasyonu tamamlandı. Aktif platformlar: ['Twitter']
+2026-01-22 01:31:54,677 - INFO - ⏰ PostScheduler başlatıldı
+2026-01-22 01:31:54,677 - INFO - 📊 PerformanceTracker başlatıldı
+2026-01-22 01:31:54,677 - INFO - ✅ Servisler başarıyla yüklendi
+2026-01-22 01:31:54,679 - INFO - ✅ Zamanlayıcı çalışmaya başladı (Her 30 saniyede kontrol)
+2026-01-22 01:31:54,680 - INFO - ✅ Post zamanlayıcısı başlatıldı
+2026-01-22 01:31:54,681 - INFO - ✅ Performans takipçisi başladı (Her 10 dakikada kontrol)
+2026-01-22 01:31:54,681 - INFO - ✅ Performans takipçisi başlatıldı
+2026-01-22 01:31:54,682 - INFO - 🌐 Web Dashboard başlatılıyor...
+2026-01-22 01:32:54,682 - INFO - 📊 Güncellenecek metrik yok
+2026-01-22 01:32:57,135 - INFO - 👋 Uygulama kapatılıyor...
+2026-01-22 01:36:57,024 - INFO - 🚀 Sosyal Medya Otomasyonu Başlatılıyor...
+2026-01-22 01:36:57,534 - INFO - ✅ Twitter API entegrasyonu başarılı
+2026-01-22 01:36:57,535 - INFO - 🔌 API Entegrasyonu tamamlandı. Aktif platformlar: ['Twitter']
+2026-01-22 01:36:57,535 - INFO - ⏰ PostScheduler başlatıldı
+2026-01-22 01:36:57,535 - INFO - 📊 PerformanceTracker başlatıldı
+2026-01-22 01:36:57,536 - INFO - ✅ Servisler başarıyla yüklendi
+2026-01-22 01:36:57,537 - INFO - ✅ Zamanlayıcı çalışmaya başladı (Her 30 saniyede kontrol)
+2026-01-22 01:36:57,537 - INFO - ✅ Post zamanlayıcısı başlatıldı
+2026-01-22 01:36:57,538 - INFO - ✅ Performans takipçisi başladı (Her 10 dakikada kontrol)
+2026-01-22 01:36:57,538 - INFO - ✅ Performans takipçisi başlatıldı
+2026-01-22 01:36:57,538 - INFO - 🌐 Web Dashboard başlatılıyor...
+2026-01-22 01:37:57,538 - INFO - 📊 Güncellenecek metrik yok
+2026-01-22 01:38:27,541 - INFO - 📋 1 adet gönderilmeyi bekleyen post bulundu
+2026-01-22 01:38:27,541 - INFO - 🚀 Post gönderiliyor: deneme deneme deneme...
+2026-01-22 01:38:28,032 - INFO - ✅ SUCCESS | TWITTER | Post #1 | deneme deneme deneme
+2026-01-22 01:38:28,035 - INFO - ✅ Twitter postu başarıyla gönderildi (ID: 2014105338409066544)
+2026-01-22 01:39:28,037 - INFO - 📋 1 adet gönderilmeyi bekleyen post bulundu
+2026-01-22 01:39:28,037 - INFO - 🚀 Post gönderiliyor: denem denem deneme...
+2026-01-22 01:39:28,037 - WARNING - ⚠️ LinkedIn publisher yapılandırılmamış
+2026-01-22 01:39:58,038 - INFO - 📋 1 adet gönderilmeyi bekleyen post bulundu
+2026-01-22 01:39:58,038 - INFO - 🚀 Post gönderiliyor: denem denem deneme...
+2026-01-22 01:39:58,039 - WARNING - ⚠️ LinkedIn publisher yapılandırılmamış
+2026-01-22 01:40:19,856 - INFO - 👋 Uygulama kapatılıyor...
+2026-01-22 01:41:44,393 - INFO - 🚀 Sosyal Medya Otomasyonu Başlatılıyor...
+2026-01-22 01:41:44,830 - INFO - ✅ Twitter API entegrasyonu başarılı
+2026-01-22 01:41:44,831 - INFO - ✅ LinkedIn API entegrasyonu başarılı
+2026-01-22 01:41:44,831 - INFO - 🔌 API Entegrasyonu tamamlandı. Aktif platformlar: ['Twitter', 'LinkedIn']
+2026-01-22 01:41:44,832 - INFO - ⏰ PostScheduler başlatıldı
+2026-01-22 01:41:44,832 - INFO - 📊 PerformanceTracker başlatıldı
+2026-01-22 01:41:44,832 - INFO - ✅ Servisler başarıyla yüklendi
+2026-01-22 01:41:44,834 - INFO - ✅ Zamanlayıcı çalışmaya başladı (Her 30 saniyede kontrol)
+2026-01-22 01:41:44,834 - INFO - ✅ Post zamanlayıcısı başlatıldı
+2026-01-22 01:41:44,835 - INFO - ✅ Performans takipçisi başladı (Her 10 dakikada kontrol)
+2026-01-22 01:41:44,836 - INFO - 📋 1 adet gönderilmeyi bekleyen post bulundu
+2026-01-22 01:41:44,835 - INFO - ✅ Performans takipçisi başlatıldı
+2026-01-22 01:41:44,836 - INFO - 🚀 Post gönderiliyor: denem denem deneme...
+2026-01-22 01:41:44,836 - INFO - 🌐 Web Dashboard başlatılıyor...
+2026-01-22 01:41:44,837 - ERROR - LinkedIn gönderim hatası: LinkedInPublisher.post_to_linkedin() takes 2 positional arguments but 3 were given
+2026-01-22 01:41:44,839 - ERROR - ❌ LinkedIn gönderimi başarısız
+2026-01-22 01:42:14,841 - INFO - 📋 1 adet gönderilmeyi bekleyen post bulundu
+2026-01-22 01:42:14,841 - INFO - 🚀 Post gönderiliyor: denem denem denem deneme...
+2026-01-22 01:42:14,842 - ERROR - LinkedIn gönderim hatası: LinkedInPublisher.post_to_linkedin() takes 2 positional arguments but 3 were given
+2026-01-22 01:42:14,844 - ERROR - ❌ LinkedIn gönderimi başarısız
+2026-01-22 01:42:44,836 - INFO - 📊 1 adet post için metrikler güncelleniyor...
+2026-01-22 01:42:44,994 - INFO - ✅ Metrik güncelleme tamamlandı
+2026-01-22 01:43:12,387 - INFO - 👋 Uygulama kapatılıyor...
+2026-01-22 01:44:05,750 - INFO - 🚀 Sosyal Medya Otomasyonu Başlatılıyor...
+2026-01-22 01:44:06,187 - INFO - ✅ Twitter API entegrasyonu başarılı
+2026-01-22 01:44:06,188 - INFO - ✅ LinkedIn API entegrasyonu başarılı
+2026-01-22 01:44:06,188 - INFO - 🔌 API Entegrasyonu tamamlandı. Aktif platformlar: ['Twitter', 'LinkedIn']
+2026-01-22 01:44:06,188 - INFO - ⏰ PostScheduler başlatıldı
+2026-01-22 01:44:06,188 - INFO - 📊 PerformanceTracker başlatıldı
+2026-01-22 01:44:06,188 - INFO - ✅ Servisler başarıyla yüklendi
+2026-01-22 01:44:06,189 - INFO - ✅ Zamanlayıcı çalışmaya başladı (Her 30 saniyede kontrol)
+2026-01-22 01:44:06,189 - INFO - ✅ Post zamanlayıcısı başlatıldı
+2026-01-22 01:44:06,190 - INFO - ✅ Performans takipçisi başladı (Her 10 dakikada kontrol)
+2026-01-22 01:44:06,190 - INFO - ✅ Performans takipçisi başlatıldı
+2026-01-22 01:44:06,190 - INFO - 🌐 Web Dashboard başlatılıyor...
+2026-01-22 01:45:06,191 - INFO - 📊 1 adet post için metrikler güncelleniyor...
+2026-01-22 01:45:06,192 - INFO - 📋 1 adet gönderilmeyi bekleyen post bulundu
+2026-01-22 01:45:06,193 - INFO - 🚀 Post gönderiliyor: deneme nolursun ol...
+2026-01-22 01:45:06,356 - INFO - ✅ Metrik güncelleme tamamlandı
+2026-01-22 01:45:09,078 - INFO - ✅ LinkedIn postu başarıyla gönderildi (ID: LI-1769035509)
+2026-01-22 01:45:39,981 - INFO - 👋 Uygulama kapatılıyor...
